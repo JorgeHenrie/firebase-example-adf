@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577336962471",
+    "project_id": "fir-example-adf-5704c",
+    "storage_bucket": "fir-example-adf-5704c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577336962471:android:b4df5daa07992e7e3a5a82",
+        "android_client_info": {
+          "package_name": "br.com.academiadoflutter.firebase_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvVJ4fM1uNTx7ggUI7j0nn0BtSoVgR7Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
